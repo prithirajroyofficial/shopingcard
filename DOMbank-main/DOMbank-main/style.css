@@ -1,0 +1,104 @@
+.login-form{
+
+    width: 500px;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    margin-top: 49px;
+}
+
+
+.mainccount{
+
+
+
+    width: 1000px;
+
+   
+}
+
+.Diposit{
+    background: #2980b9;
+    padding: 50px 20px;
+    margin: 0 10px;
+    color: #fff;
+
+}
+
+.Diposit h3{
+    text-align: center;
+    
+    
+}
+.Diposit h4{
+    text-align: center;
+    
+    
+}
+
+.withdraw{
+    background: #c0392b;
+    padding: 50px 20px;
+    margin: 0 10px;
+    color: #fff;
+
+}
+
+.withdraw h3{
+    text-align: center;
+    
+    
+}
+.withdraw h4{
+    text-align: center;
+    
+    
+}
+
+.total{
+    background: #27ae60;
+    padding: 50px 20px;
+    margin: 0 10px;
+    color: #fff;
+
+}
+
+.total h3{
+    text-align: center;
+    
+    
+}
+.total h4{
+    text-align: center;
+    
+    
+}
+
+.mainccount h2{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin: 50px;
+}
+
+.accontinfo {
+    margin-top: 30px ;
+
+}
+
+
+.btuunnn{
+    
+   
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+.inoutform{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}

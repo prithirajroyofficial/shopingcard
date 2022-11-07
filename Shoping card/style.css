@@ -1,0 +1,38 @@
+.card1 img{
+    max-width: 100%;
+   
+    margin: auto;
+    display: block;
+}
+
+.card1 h2{
+    margin-top: 30px;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.card1 h3{
+    
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.card1{
+    padding: 10px;
+    border-radius: 5px;
+    background: #d4d1d1;
+    margin-top: 19px;
+    margin: 15px;
+}
+
+#buyNow{
+    
+    display: block;
+    margin: auto;
+}
+.titilea h1{
+    margin-top: 40px;
+    font-size: 18px;
+}
